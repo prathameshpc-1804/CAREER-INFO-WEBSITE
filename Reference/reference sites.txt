@@ -1,0 +1,130 @@
+1.TailwindCSS(website)
+2.Tailblocks(website)
+3.unsplash(website) for images
+
+
+<!-- <a href="college_details.php" class="college-item">
+            <img src="images/stxavier.jpg" alt="xavier">
+            <div>
+                <h3>St. Xavier's College, Mumbai</h3>
+                <p>Mumbai, Maharashtra | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/ict.jpg" alt="ict">
+            <div>
+                <h3>Institute of Chemical Technology (ICT Mumbai)</h3>
+                <p>Ahmedabad, Gujarat | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/nmims.jpg" alt="NMIMS">
+            <div>
+                <h3>Narsee Monjee Institute of Management Studies (NMIMS)</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/tiss.jpg" alt="TISS">
+            <div>
+                <h3>Tata Institute of Social Sciences (TISS)</h3>
+                <p>Kolkata, West Bengal | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/somaiya.jpg" alt="SOMAIYA">
+            <div>
+                <h3>KJ Somaiya College of Engineering</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+
+        <a href="college_details.php" class="college-item">
+            <img src="images/sydenham.jpg" alt="SYDENHAM">
+            <div>
+                <h3>Sydenham College of Commerce and Economics</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+
+        <a href="college_details.phpi" class="college-item">
+            <img src="images/rizvi.jpg" alt="RIZ">
+            <div>
+                <h3>Rizvi College of Arts, Science & Commerce</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+
+        <a href="college_details.php" class="college-item">
+            <img src="images/spjain.jpg" alt="SP">
+            <div>
+                <h3>SP Jain Institute of Management and Research (SPJIMR)</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/hrclg.jpg" alt="HR">
+            <div>
+                <h3>H.R. College of Commerce and Economics</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/mithi.jpg" alt="MTHI">
+            <div>
+                <h3>Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/jaihind" alt="HIND">
+            <div>
+                <h3>Jai Hind College</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+
+        <a href="college_details.php" class="college-item">
+            <img src="images/nitie.jpg" alt="NITIE">
+            <div>
+                <h3>National Institute of Industrial Engineering (NITIE)</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+
+        <a href="college_details.php" class="college-item">
+            <img src="images/vjti.jpg" alt="VJTI">
+            <div>
+                <h3>Veermata Jijabai Technological Institute (VJTI)</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+
+        <a href="college_details.php" class="college-item">
+            <img src="images/wilson.jpg" alt="WILSON">
+            <div>
+                <h3> Wilson College</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/thakur.jpg" alt="THAKUR">
+            <div>
+                <h3> Thakur College of Science & Commerce</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/sies.png" alt="SIES">
+            <div>
+                <h3>SIES College of Arts, Science & Commerce</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a>
+        <a href="college_details.php" class="college-item">
+            <img src="images/mcc.png" alt="MCC">
+            <div>
+                <h3>Mulund College of commerce (MCC)</h3>
+                <p>Bangalore, Karnataka | <span class="rating">4.9/5</span></p>
+            </div>
+        </a> -->

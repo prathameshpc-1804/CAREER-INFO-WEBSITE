@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.user-details {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.user-details p {
+    margin-bottom: 20px;
+}
+.user-details strong {
+    color: #333;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container button {
+    margin: 0 10px; /* add some margin between buttons */
+    padding: 10px 20px; /* add some padding */
+    border: none; /* remove the default border */
+    border-radius: 5px; /* add some rounded corners */
+    cursor: pointer; /* change the cursor to a pointer */
+}
+
+#home-button {
+    background-color: #4CAF50; /* green background */
+    color: #fff; /* white text */
+}
+
+#home-button:hover {
+    background-color: #3e8e41; /* darker green on hover */
+}
+#logout-button {
+    background-color: #f44336; /* red background */
+    color: #fff; /* white text */
+}
+
+#logout-button:hover {
+    background-color: #e91e63; /* darker red on hover */
+}
+
+
+
+
+

@@ -1,0 +1,263 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+
+/* boxes*/
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+.category-boxes {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 200px;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    padding: 10px;
+}
+
+.box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.box h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+    text-align: center;
+}
+
+.box ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.box ul li {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 4px 0;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo h1 {
+    font-size: 24px;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
+
+/* Search Bar Section */
+.search-bar {
+    display: flex;
+    justify-content: center; /* Centers the items horizontally */
+    align-items: center; /* Centers the items vertically */
+    padding: 60px;
+    background-color: #f1f1f1;
+}
+
+.search-bar input {
+    padding: 20px;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.search-bar button {
+    width: 100px;
+    padding: 20px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #0066cc;
+    color: #fff;
+}
+
+
+
+/* Hero Section */
+.hero {
+    background-image: url("header1.png"); /* Ensure the path is correct */
+    background-size: cover; /* Make the image cover the entire section */
+    height: 350px; /* Set the height for the hero section */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    color: #fff;
+    padding: 20px; /* Adjust padding to reduce space around content */
+    text-align: center;
+    display: flex;
+    align-items: flex-start; /* Align content at the top */
+    justify-content: center; /* Center content horizontally */
+    position: relative;
+    width: 100%; /* Ensure it takes the full width of the container */
+}
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better text visibility */
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 90%; /* Limit the width of the content area */
+    margin: 0 auto; /* Center the content horizontally */
+}
+
+.hero-content h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.hero-content p {
+    font-size: 18px;
+    margin-bottom: 20px; /* Adjust to add space after the paragraph */
+}
+
+.hero-content button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.hero-content button:hover {
+    background-color: #003f7f;
+}
+
+/* Featured Sections */
+.featured {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.featured h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: calc(50% - 40px);
+    text-align: left;
+}
+
+.card h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 16px;
+}
+
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.contact-info, .social-media, .legal {
+    width: 30%;
+    min-width: 200px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 5px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+

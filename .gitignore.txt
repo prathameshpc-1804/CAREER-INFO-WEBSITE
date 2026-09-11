@@ -1,0 +1,14 @@
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
